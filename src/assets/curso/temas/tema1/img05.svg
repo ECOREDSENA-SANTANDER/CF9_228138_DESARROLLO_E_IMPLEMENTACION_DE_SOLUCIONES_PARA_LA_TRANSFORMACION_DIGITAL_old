@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174.66" height="54.059" viewBox="0 0 174.66 54.059">
+  <g id="Grupo_1070057" data-name="Grupo 1070057" transform="translate(-180 -954.471)">
+    <rect id="Rectángulo_356252" data-name="Rectángulo 356252" width="152.978" height="39" rx="19.5" transform="translate(180 961.598)" fill="#083142"/>
+    <g id="Grupo_1044009" data-name="Grupo 1044009" transform="translate(299.707 954.471)">
+      <rect id="Rectángulo_356253" data-name="Rectángulo 356253" width="24.699" height="51.752" rx="12.349" transform="translate(36.594) rotate(45)" fill="#ff6148"/>
+      <rect id="Rectángulo_356254" data-name="Rectángulo 356254" width="15.615" height="32.719" rx="7.808" transform="translate(43.912 14.927) rotate(45)" fill="#ffb476"/>
+    </g>
+    <g id="Rectángulo_356255" data-name="Rectángulo 356255" transform="translate(303.481 958)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="49" height="47" stroke="none"/>
+      <rect x="0.5" y="0.5" width="48" height="46" fill="none"/>
+    </g>
+    <text id="Un_objeto" data-name="Un objeto" transform="translate(204.996 969.598)" fill="#fff" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Un objeto</tspan></text>
+  </g>
+</svg>
